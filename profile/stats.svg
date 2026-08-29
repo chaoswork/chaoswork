@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chao Huang's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1047, Total Commits  (last year) : 607, Total PRs: 72, Total Issues: 6, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 1048, Total Commits  (last year) : 607, Total PRs: 72, Total Issues: 6, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.334234485119424;
+        stroke-dashoffset: 58.330756885003886;
       }
     }
   
